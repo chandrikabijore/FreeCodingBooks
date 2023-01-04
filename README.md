@@ -1,2 +1,2 @@
-# FreeCodingBooks
+# Coding books for all
 
